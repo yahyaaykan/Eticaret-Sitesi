@@ -1,0 +1,22 @@
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\bin\Debug\net8.0\Eticaret.Core.deps.json
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\bin\Debug\net8.0\Eticaret.Core.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\bin\Debug\net8.0\Eticaret.Core.pdb
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.AssemblyInfo.cs
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\refint\Eticaret.Core.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.pdb
+C:\Users\pc\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\ref\Eticaret.Core.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\bin\Debug\net8.0\Eticaret.Core.deps.json
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\bin\Debug\net8.0\Eticaret.Core.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\bin\Debug\net8.0\Eticaret.Core.pdb
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.AssemblyInfoInputs.cache
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.AssemblyInfo.cs
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\refint\Eticaret.Core.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\Eticaret.Core.pdb
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Core\obj\Debug\net8.0\ref\Eticaret.Core.dll

@@ -1,0 +1,34 @@
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.deps.json
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.runtimeconfig.json
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.pdb
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Core.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Core.pdb
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.AssemblyInfo.cs
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.5F83CBB5.Up2Date
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\refint\Eticaret.Data.dll
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.pdb
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.genruntimeconfig.cache
+C:\Users\pc\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\ref\Eticaret.Data.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.deps.json
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.runtimeconfig.json
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Data.pdb
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Core.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\bin\Debug\net8.0\Eticaret.Core.pdb
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.AssemblyInfoInputs.cache
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.AssemblyInfo.cs
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.csproj.CopyComplete
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\refint\Eticaret.Data.dll
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.pdb
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\Eticaret.Data.genruntimeconfig.cache
+G:\Diğer bilgisayarlar\Masaüstü Bilgisayarım\source\repos\Eticaret\Eticaret.Data\obj\Debug\net8.0\ref\Eticaret.Data.dll
